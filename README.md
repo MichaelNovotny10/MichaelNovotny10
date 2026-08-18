@@ -89,7 +89,7 @@ A Telegram bot that scrapes and delivers daily meal menus to ~30–40 dorm stude
 <h3>📊 &nbsp;Most Used Languages</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael104104&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelNovotny10&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -98,11 +98,11 @@ A Telegram bot that scrapes and delivers daily meal menus to ~30–40 dorm stude
 <h3>📊 &nbsp;GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michael104104&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelNovotny10&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Michael104104&theme=transparent&hide_border=true&ring=c44d34&fire=c44d34&currStreakLabel=c44d34&sideLabels=888888&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=MichaelNovotny10&theme=transparent&hide_border=true&ring=c44d34&fire=c44d34&currStreakLabel=c44d34&sideLabels=888888&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
 </div>
 
 <br/>
