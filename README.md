@@ -98,7 +98,7 @@ A Telegram bot that scrapes and delivers daily meal menus to ~30–40 dorm stude
 <h3>📊 &nbsp;GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelNovotny10&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelNovotny10&show_icons=true&theme=tokyonight" />
 </div>
 
 <div align="center">
