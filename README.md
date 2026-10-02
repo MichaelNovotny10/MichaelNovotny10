@@ -1,21 +1,12 @@
 <!-- Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c44d34&height=160&section=header&text=Michael%20Novotny&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Systems%20%26%20App%20Developer&descAlignY=58&descSize=16&descColor=ffccbb&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c44d34&height=160&section=header&text=Michael%20Novotny&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Systems%20and%20App%20Developer&descAlignY=58&descSize=16&descColor=ffccbb&animation=fadeIn" />
 </div>
-
-<!-- Logo -->
-<div align="center">
-<a href="https://michaelnovotny.dev">
-<img src="https://michaelnovotny.dev/favicon.svg" height="64" alt="michaelnovotny.dev" />
-</a>
-</div>
-
-<br/>
 
 <!-- Social links -->
 <div align="center">
 <a href="https://michaelnovotny.dev">
-<img height="28" src="https://img.shields.io/badge/michaelnovotny.dev-c44d34?style=for-the-badge&logo=firefox&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/michaelnovotny.dev-c44d34?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAFWUlEQVR4AexYW0wUVxj%2Bd1DW8tDWXcQLSdOqkaaklba0JLWm2YhpaZPyYpNekkYxGo1GfRUfjA8afVPjFePtwVvkhRcvQYL3iFeMwagxGmPwsnKRBwkgu%2Bv%2FDXsIDDPDrHNmOcxK5mfm%2FPOfc%2F7v2%2FOf8%2F%2Bjkc1fbm7ujHA4XBkKhWpZnrH0siQUF%2FgIX2vhOzDYQCRTAtCJOx%2BKx%2BP3E4nEeh6glGUySxaL6hd8hK%2Bl8B0YgAWYzBwfQgD%2Fuou4013u%2FK9Zh9GoAxZgAjaj%2F4MIYKYq2aCKBSzyzVcXMFUlMfYD6ycA7DBTWO79L%2F34AIzAKrDpBCTjY6dQZsB9ZxJz3ybIrKxl0FgifMuIKyuJmTQwwQ3fbHhOfz5gBnaNH%2BY57eQ3O2AHARG%2FAXOKhwmIYBMsdNrBh3aFICDPh8CcQsoDAZm0%2BxuJyQIBRmVGtT8QkFE%2FNxEZ8UpbAVogQAWhj%2BnTYLZxDqXbUggYo2lU9euPdOzPWVT%2FzxxaP3smfRIcqzRw4ZwUApYUTafiSSF9zAD%2F%2F2PaFKoun03fThzPLbUv1wQE%2BSD5v%2FCLISgn5ARp728ltODrqQRShhgoonBNQM7YMZTNJJjhwb6w8vsC2j73B2VDwjUB7V09VPfkpRn%2Bft1P%2BbnKhoRrAoBy9flGutT8Co%2BWompISCGgJxan5bXXaeuN%2BxRLJCxJECGxi08MVU4JKQQAMWDvu%2FOIKk42ULSzCypLKZkcpuPlP9PMvJE%2FJaQRINDejrbTXzUXqeF5q1CZ3vNyxtG%2BshKq%2BGbaiJ4S0gkA2o7ut7Tk9NVhQyKLs8cV382gkQwJTwgACaMlJDwjACRAVA8JzwkACSIktvApEbc5JURIbJtbbJlcYTyZkhYC4DBCYj%2BfEgtPNdCrzm6oLGVW%2FgTawAWVpYHEF2kjQPh862U7zau5QJebW4TK9F76%2BSQp6bPp4AOUaSdAzN3R3UN24dAVi1Fnb0yYe3ZPOwFIflAql02dQsgMrZAd4HB5yxmm1XtZ%2BrQRgJK4gkvj%2FZz8oC6wA3DuaZR2Nz60M5H2Li0EIO9HsrOCS2O7Xx11BOqJVXU3CJumNJQ2A3lOAJY88n7k%2FzZ%2B6PUD6gjUE%2BkCD388I0AseeT7yPsxmZWgbkD9gKTJysYrvScEDFzySG6snBdLHnVDB9cPVnZe6qUToPqSN5IpjQDZS758ej7V%2Fz2HGueX2QpsYGsE5rQthQB8FEX%2Bjl3ebskj8dnC9YCTJb%2Bq%2BEsaPy57WBywge2whhYGUgjY9EsRIX%2B3mENXI%2F9HHYB6wMkuD2B6Rwf%2FUrE1DueagPBHQYp8NtE47qA28n7k%2F6gDBr1QoOGagDc9vYSPomZYxJJfVnuNUt3l8bndbEwzXSq2xv6uCUDRcrDpsXFcveRdwB9InS554wCbr98jJ8BgA1tjf6dt1wRgoh03H9DRe0%2F06g7xfeLRM73kdZPY1DxspsjROio6cNJWYANb%2BPE%2BIoUAgN545S79Xn2WIkfqqPL87ZSX%2FPs4b9YnVZ0UAsSkL9500Wuu80V7NNylEjAaABt9%2FECAkZFMa2MFeP%2FhTV1WYyAgqq5%2FnnsWBQFNnk%2Bj7gRN%2FIkuUK%2Buf956FggE6kFAtbfTqDs6E1CttbS0POCHw%2Bq66Y1nwAzs2AOIG%2Bt4mkw6DWJJzKQTACaYgKUsmXItTWLuIwCo29ra9jAra%2FDsZwFGYBUY9RUgGq2trRv4eTGLH8MBmBYnMTLEvmsQAVCBHU3TvmKmfLMxAgswARswDpQhBOAl4oOZ%2Bo87FXBnhMUZ1j9nAYt8U%2Bcy8QQ%2Bwtcz8B0YgAWYTGzpHQAAAP%2F%2FMTllsQAAAAZJREFUAwBxpCqPqfwLsgAAAABJRU5ErkJggg%3D%3D" />
 </a>
 &nbsp;
 <a href="mailto:michael@michaelnovotny.dev">
@@ -52,7 +43,7 @@ when_not_coding: [Race cycling, Baseball, Hiking, Calisthenics]
 <h3>Tools & Technologies</h3>
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=py,c,dart,flutter,kotlin,html,css,js,vscode,git,github,cloudflare,ubuntu" />
+<img src="https://skillicons.dev/icons?i=c,dart,flutter,kotlin,py,html,css,js,vscode,git,github,cloudflare,ubuntu" />
 </div>
 
 <div align="left">
