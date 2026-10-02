@@ -32,7 +32,7 @@ field: Applikationsentwicklung (Coding)
 languages:
   main: [C, Dart]
   also: [Python, Go, x86-64 ASM]
-when_not_coding: [Race cycling, Baseball, Hiking, Calisthenics]
+when_not_coding: [Race cycling, Baseball, Hiking]
 ```
 
 <br/>
