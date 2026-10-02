@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c44d34&height=160&section=header&text=Michael%20Novotny&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Systems%20and%20App%20Developer&descAlignY=58&descSize=16&descColor=ffccbb&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c44d34&height=160&section=header&text=Michael%20Novotny&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Systems%20and%20App%20Developer&descAlignY=58&descSize=16&descColor=ffccbb" />
 </div>
 
 <!-- Social links -->
@@ -92,5 +92,5 @@ when_not_coding: [Race cycling, Baseball, Hiking, Calisthenics]
 
 <!-- Footer -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c44d34&height=100&section=footer&text=More%20projects%20coming%20soon&fontSize=16&fontColor=ffccbb&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c44d34&height=100&section=footer&text=More%20projects%20coming%20soon&fontSize=16&fontColor=ffccbb&fontAlignY=65" />
 </div>
